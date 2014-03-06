@@ -163,6 +163,11 @@
 			- [Android设备Edge版本性能测试](../manual/framework/native/advanced/optimizations/benchmark-reports/performance-test-of-edge-version-on-android-devices/zh.md)
 			- [iOS设备性能测试](../manual/framework/native/advanced/optimizations/benchmark-reports/performance-test-of-edge-version-on-ios-devices/zh.md)
 			
+		- 常用工具
+			- [CocosBuilder](../manual/framework/native/tools-and-editors/zh.md)
+			- [Cocos2d-x纹理动作及关数等编辑器](../manual/framework/native/tools-and-editors/editors-for-cocos2d-x-texturetilemapparticleactionlevel-etc/zh.md)
+			- [TexturePacker](../manual/framework/native/tools-and-editors/texturepacker/zh.md)
+			
 	- CocoStudio
 		- [CocoStudio介绍](../manual/studio/about-cocostudio/zh.md)
 		- [CocoStudio UI编辑器的使用](../manual/studio/ui-editor/zh.md)
@@ -192,11 +197,12 @@
  	- [在Cocos2d-x里如何制作各种按钮](../tutorial/how-to-create-buttons-in-cocos2d-simple-radio-and-toggle/zh.md)
  	- [在Cocos2d-x3.0里面如何使用拖拽精灵](../tutorial/how-to-drag-and-drop-sprites/zh.md)
  	- [使用Cocos2d-x实现一款类似《Flappy Bird》的游戏](../tutorial/how-to-make-a-game-like-flappybird/zh.md)
- 	
+ 	- [cocos2d-x3.x实现屏幕画线并添加刚体属性](../tutorial/line-with-physic-property/zh.md)
+ 	- [怎样在Cocos2d-x中使用A*算法（v3.0）](../tutorial/how-to-use-a-star-in-cocos2dx/zh.md)
  	- 如何使用Cocos2d-x 3.0来做一个简单的iphone游戏教程(v3.0)
- 		- [part 1 游戏主逻辑实现](../tutorial/how-to-make-a-space-shooter-game/chapter-1/zh.md)
-		- [part 2 添加更强力的武器](../tutorial/how-to-make-a-space-shooter-game/chapter-2/zh.md)
-		- [part 3 更猛的怪物和更多的关卡](../tutorial/how-to-make-a-space-shooter-game/chapter-3/zh.md)
+ 		- [part 1 游戏主逻辑实现](../tutorial/how-to-make-a-simple-cocos2dx-game/chapter-1/zh.md)
+		- [part 2 添加更强力的武器](../tutorial/how-to-make-a-simple-cocos2dx-game/chapter-2/zh.md)
+		- [part 3 更猛的怪物和更多的关卡](../tutorial/how-to-make-a-simple-cocos2dx-game/chapter-3/zh.md)
 		
 	- 如何使用Cocos2d-x来制作一个塔防游戏(v3.0)
  		- [如何使用Cocos2d-x制作一个塔防游戏：引子](../tutorial/how-to-make-a-tower-defense-game/preface/zh.md)
@@ -207,7 +213,23 @@
 		
 	- [如何在cocos2d里面使用动画和spritesheet](../tutorial/how-to-use-animations-and-spritesheets/zh.md)
 	- [Cocos2d-x里如何用TexturePacker和像素格式来优化spritesheet](../tutorial/how-to-use-texturepacker-to-optimize-the-spritesheet/zh.md)
+	- [在cocos2d-x3.0里面如何使用物理引擎：弹球](../tutorial/intro-to-box2d-with-cocos2dx-tutorial-bouncing-balls/zh.md)
+	- [如何使用cocos2d-x 3.0制作一个太空射击游戏](../tutorial/how-to-make-a-space-shooter-game/zh.md)
+	- [如何使用cocos2d-x3.0来给Sprite添加遮罩](../tutorial/how-to-mask-a-sprite-with-cocos2dx/zh.md)
 	
+	- 使用cocos2d-x3.0制作一个打地鼠的游戏
+ 		- [如何使用cocos2d-x3.0制作一个打地鼠的游戏:第一部分](../tutorial/how-to-create-a-mole-whacking-game/part1/zh.md)
+ 		- [如何使用cocos2d-x3.0制作一个打地鼠的游戏：第二部分](../tutorial/how-to-create-a-mole-whacking-game/part2/zh.md)
+ 		
+ 	- 使用cocos2d-x3.0制作一个滑动图片游
+ 		- [如何使用cocos2d-x3.0制作一个滑动图片游戏：第一部分](../tutorial/building-a-slide-image-game/part1/zh.md)
+ 		- [如何使用cocos2d-x3.0制作一个滑动图片游戏：第二部分](../tutorial/building-a-slide-image-game/part2/zh.md)
+ 	
+ 	- 如何使用cocos2dx3.0制作基于tilemap的游戏
+ 		- [如何使用cocos2dx3.0制作基于tilemap的游戏：第一部分](../tutorial/how-to-make-a-tile-based-game-with-cocos2d/part1/zh.md)
+ 		- [如何使用cocos2dx3.0制作基于tilemap的游戏：第二部分](../tutorial/how-to-make-a-tile-based-game-with-cocos2d/part2/zh.md)
+ 		- [如何使用cocos2dx3.0制作基于tilemap的游戏：第三部分·完](../tutorial/how-to-make-a-tile-based-game-with-cocos2d/part3/zh.md)
+ 			
 	- Cocos2d-x菜单教程(v3.0)
  		- [Cocos2d-x3.0菜单教程：第一部分](../tutorial/menu-tutorial/chapter1/zh.md)
  		- [Cocos2d-x3.0菜单教程：第二部分](../tutorial/menu-tutorial/chapter2/zh.md)
